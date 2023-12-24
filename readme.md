@@ -11,11 +11,11 @@
 
 ## The Application
 
-The Backup & Recovery Screen
+* The Backup & Recovery Screen
 
-The Query Screen
+* The Query Screen
 
-The Conversion Screen
+* The Conversion Screen
 
 ## The Future of this project
 
