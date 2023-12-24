@@ -4,6 +4,11 @@
 * This desktop application is devloped in python using **THE PYQT5 FRAMEWORK**
 * It simple & easy to use
 
+## Encryption
+* Symmetric Encryption 
+* Caesar Cipher 
+* ECC
+
 ## The Application
 
 The Backup & Recovery Screen
